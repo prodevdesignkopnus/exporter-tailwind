@@ -12,7 +12,7 @@ module.exports = {
         'color-brand': {
             'light-blue': '#e6f0f4', 
             'blue': '#036491', 
-            'dark-blue': '#002435', 
+            'dark-green': '#003508', 
             'light-red': '#fbe6ea', 
             'red': '#db042d', 
             'dark-red': '#51000f', 

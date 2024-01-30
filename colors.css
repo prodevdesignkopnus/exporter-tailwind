@@ -1,0 +1,29 @@
+
+:root {
+    --color-color-brand-light-blue: #e6f0f4; 
+    --color-color-brand-blue: #036491; 
+    --color-color-brand-dark-blue: #002435; 
+    --color-color-brand-light-red: #fbe6ea; 
+    --color-color-brand-red: #db042d; 
+    --color-color-brand-dark-red: #51000f; 
+    --color-color-light-grey: #d7d7d7; 
+    --color-color-dark-grey: #6c6c6c; 
+    --color-color-light-black: #393939; 
+    --color-color-black: #181818; 
+    --color-color-yellow: #f1b302; 
+    --color-color-brand-white: #ffffff; 
+    --color-color-green: #609e29; 
+    --color-color-brown: #6b2414; 
+    --color-content-default: #181818; 
+    --color-background-default: #ffffff; 
+    --color-background-accent: #db042d; 
+    --color-background-standard: #036491; 
+    --color-background-accent-secondary: #fbe6ea; 
+    --color-content-highlight: #ffffff; 
+    --color-background-standard-secondary: #e6f0f4; 
+    --color-background-info: #6b2414; 
+    --color-content-accent: #db042d; 
+    --color-content-standard: #036491; 
+    --color-content-neutral: #d7d7d7; 
+    --color-content-inverse-demo_: #ffffff; 
+}

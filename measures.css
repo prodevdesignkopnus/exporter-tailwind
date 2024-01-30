@@ -1,0 +1,35 @@
+
+:root {
+    --measure-dimension-scale-scale-1: 1px;     
+    --measure-dimension-scale-scale-2: 2px;     
+    --measure-dimension-scale-scale-4: 4px;     
+    --measure-dimension-scale-scale-8: 8px;     
+    --measure-dimension-scale-scale-12: 12px;     
+    --measure-dimension-scale-scale-16: 16px;     
+    --measure-dimension-scale-scale-20: 20px;     
+    --measure-dimension-scale-scale-24: 24px;     
+    --measure-dimension-scale-scale-28: 28px;     
+    --measure-dimension-scale-scale-32: 32px;     
+    --measure-dimension-scale-scale-36: 36px;     
+    --measure-dimension-scale-scale-44: 44px;     
+    --measure-dimension-scale-scale-52: 52px;     
+    --measure-dimension-scale-scale-60: 60px;     
+    --measure-dimension-dimensions-stroke-stroke-1: 1px;     
+    --measure-dimension-dimensions-stroke-stroke-2: 2px;     
+    --measure-dimension-dimensions-stroke-stroke-3: 4px;     
+    --measure-dimension-dimensions-gap-gap-1: 8px;     
+    --measure-dimension-dimensions-gap-gap-2: 12px;     
+    --measure-dimension-dimensions-gap-gap-3: 24px;     
+    --measure-dimension-dimensions-padding-padding-1: 4px;     
+    --measure-dimension-dimensions-padding-padding-2: 8px;     
+    --measure-dimension-dimensions-padding-padding-3: 12px;     
+    --measure-dimension-dimensions-padding-padding-4: 16px;     
+    --measure-dimension-dimensions-padding-padding-5: 24px;     
+    --measure-dimension-dimensions-padding-padding-6: 32px;     
+    --measure-dimension-dimensions-padding-padding-7: 44px;     
+    --measure-dimension-dimensions-padding-padding-8: 52px;     
+    --measure-dimension-dimensions-corner-radius-radius-1: 4px;     
+    --measure-dimension-dimensions-corner-radius-radius-2: 8px;     
+    --measure-dimension-dimensions-corner-radius-radius-3: 12px;     
+    --measure-dimension-dimensions-corner-radius-radius-4: 16px;     
+}

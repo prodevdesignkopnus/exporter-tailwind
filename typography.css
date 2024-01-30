@@ -2,7 +2,7 @@
 
 @layer utilities {
    
-  .typography-display-s {
+  .typography-display-sm {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 700;

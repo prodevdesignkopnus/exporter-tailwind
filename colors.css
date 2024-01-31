@@ -14,7 +14,6 @@
     --color-color-brand-white: #ffffff; 
     --color-color-green: #609e29; 
     --color-color-brown: #6b2414; 
-    --color-content-neutral: #d7d7d7; 
     --color-content-default: #181818; 
     --color-background-default: #ffffff; 
     --color-background-accent: #db042d; 
@@ -25,5 +24,6 @@
     --color-background-info: #6b2414; 
     --color-content-accent: #db042d; 
     --color-content-standard: #ff54d9; 
+    --color-content-neutral: #d7d7d7; 
     --color-content-inverse-demo_: #ffffff; 
 }

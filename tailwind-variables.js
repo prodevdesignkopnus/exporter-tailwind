@@ -36,5 +36,7 @@ module.exports = {
         },
     },
     'boxShadow': {
+        'Shadows-1': 'var(--shadow-shadows-1)', 
+        'Shadows-2': 'var(--shadow-shadows-2)', 
     }
 }

@@ -2,18 +2,148 @@
 
 @layer utilities {
    
-  .typography-display-s {
-    font-family: "Poppins";
+  .typography-primary-heading-h1 {
+    font-family: "Montserrat";
     font-style: normal;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 60px;
     letter-spacing: 0em;
     text-indent: 0px;
   } 
 
    
-  .typography-body-m {
-    font-family: "Open Sans";
+  .typography-primary-heading-h2 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-primary-heading-h3 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-primary-heading-h4 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-primary-heading-h5 {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-primary-body-b1-reguler {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-primary-body-b1-italic {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-primary-body-b1-bold {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-primary-body-b1-bold-italic {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-secondary-heading-h1 {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 60px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-secondary-heading-h2 {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-secondary-heading-h3 {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-secondary-heading-h4 {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-secondary-heading-h5 {
+    font-family: "Lato";
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    letter-spacing: 0em;
+    text-indent: 0px;
+  } 
+
+   
+  .typography-secondary-body-b1-italic {
+    font-family: "Lato";
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -22,18 +152,8 @@
   } 
 
    
-  .typography-body-l {
-    font-family: "Open Sans Condensed";
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    letter-spacing: 0em;
-    text-indent: 0px;
-  } 
-
-   
-  .typography-heading-s {
-    font-family: "Poppins";
+  .typography-secondary-body-b1-bold {
+    font-family: "Lato";
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -42,21 +162,11 @@
   } 
 
    
-  .typography-heading-xs {
-    font-family: "Poppins";
-    font-style: normal;
-    font-weight: 600;
-    font-size: 12px;
-    letter-spacing: 0em;
-    text-indent: 0px;
-  } 
-
-   
-  .typography-heading-m {
-    font-family: "Poppins";
+  .typography-secondary-body-b1-bold-italic {
+    font-family: "Lato";
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 16px;
     letter-spacing: 0em;
     text-indent: 0px;
   } 

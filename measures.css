@@ -14,6 +14,10 @@
     --measure-dimension-scale-scale-44: 44px;     
     --measure-dimension-scale-scale-52: 52px;     
     --measure-dimension-scale-scale-60: 60px;     
+    --measure-dimension-dimensions-corner-radius-radius-1: 4px;     
+    --measure-dimension-dimensions-corner-radius-radius-2: 8px;     
+    --measure-dimension-dimensions-corner-radius-radius-3: 12px;     
+    --measure-dimension-dimensions-corner-radius-radius-4: 16px;     
     --measure-dimension-dimensions-stroke-stroke-1: 1px;     
     --measure-dimension-dimensions-stroke-stroke-2: 2px;     
     --measure-dimension-dimensions-stroke-stroke-3: 4px;     
@@ -28,8 +32,4 @@
     --measure-dimension-dimensions-padding-padding-6: 32px;     
     --measure-dimension-dimensions-padding-padding-7: 44px;     
     --measure-dimension-dimensions-padding-padding-8: 52px;     
-    --measure-dimension-dimensions-corner-radius-radius-1: 4px;     
-    --measure-dimension-dimensions-corner-radius-radius-2: 8px;     
-    --measure-dimension-dimensions-corner-radius-radius-3: 12px;     
-    --measure-dimension-dimensions-corner-radius-radius-4: 16px;     
 }
